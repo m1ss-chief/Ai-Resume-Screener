@@ -1,0 +1,196 @@
+{
+  "job_role": "SDE",
+  "total_screened": 8,
+  "all_candidates": [
+    {
+      "candidate_id": "R003",
+      "candidate_name": "Priya Nair",
+      "ats_score": 88,
+      "fit_summary": "Priya presents as a strong candidate for an SDE role with a focus on AI/ML due to her specialized education from IIT Hyderabad and practical experience in LLM fine-tuning and RAG pipelines. Her projects demonstrate a clear ability to apply AI concepts to real-world problems, making her a promising contender.",
+      "key_strengths": [
+        "Strong AI/ML specialization with IIT Hyderabad background",
+        "Hands-on experience with LLMs, RAG, and LangChain",
+        "Demonstrated project work in AI-powered tools"
+      ],
+      "missing_skills": [
+        "Core SDE skills (e.g., specific programming languages beyond Python, data structures, algorithms, software design patterns)",
+        "Experience with large-scale software development lifecycle"
+      ],
+      "recommendation": "Strongly Recommended",
+      "email": "priya.nair@email.com"
+    },
+    {
+      "candidate_id": "R006",
+      "candidate_name": "Arjun Verma",
+      "ats_score": 88,
+      "fit_summary": "Arjun Verma is a strong candidate for an SDE role with 3.5 years of experience in full-stack development. His resume highlights relevant skills in Java, Spring Boot, React, microservices, and DevOps tools like Docker and Kubernetes, aligning well with typical SDE responsibilities.",
+      "key_strengths": [
+        "Full-stack development experience",
+        "Proficiency in Java, Spring Boot, and React",
+        "Experience with microservices architecture and CI/CD"
+      ],
+      "missing_skills": [],
+      "recommendation": "Strongly Recommended",
+      "email": "arjun.verma@email.com"
+    },
+    {
+      "candidate_id": "R008",
+      "candidate_name": "Vikram Singh",
+      "ats_score": 88,
+      "fit_summary": "Vikram has substantial backend development experience, particularly with Python and Django, aligning well with typical SDE roles. His project experience demonstrates practical application of skills like API integration and scalable system design.",
+      "key_strengths": [
+        "Python/Django Expertise",
+        "API Development & Integration",
+        "Database Management (PostgreSQL, Redis)"
+      ],
+      "missing_skills": [
+        "Frontend Technologies (e.g., JavaScript, React/Angular/Vue)",
+        "Cloud Platforms (e.g., AWS, Azure, GCP)"
+      ],
+      "recommendation": "Strongly Recommended",
+      "email": "vikram.singh@email.com"
+    },
+    {
+      "candidate_id": "R002",
+      "candidate_name": "Rohan Mehta",
+      "ats_score": 80,
+      "fit_summary": "Rohan has relevant experience as a Software Developer, with 2 years focused on Node.js, microservices, and API development, aligning well with typical SDE requirements. His projects demonstrate practical application of these skills, including scalability and full-stack development.",
+      "key_strengths": [
+        "Node.js and Express development",
+        "Microservices architecture experience",
+        "Full-stack project experience"
+      ],
+      "missing_skills": [
+        "Cloud platforms (AWS, Azure, GCP)",
+        "CI/CD practices"
+      ],
+      "recommendation": "Recommended",
+      "email": "rohan.mehta@email.com"
+    },
+    {
+      "candidate_id": "R004",
+      "candidate_name": "Karthik Reddy",
+      "ats_score": 78,
+      "fit_summary": "Karthik presents a strong profile with relevant experience in Machine Learning Engineering, including building and deploying models, big data processing with Spark, and MLOps practices. His project work further demonstrates practical application of ML algorithms and API development.",
+      "key_strengths": [
+        "Machine Learning Model Development and Deployment",
+        "Big Data Processing (Apache Spark)",
+        "MLOps (MLflow)",
+        "API Development (FastAPI)"
+      ],
+      "missing_skills": [
+        "Core Software Engineering principles (e.g., advanced data structures, algorithms, system design)",
+        "Specific programming languages beyond Python (if relevant for the SDE role)"
+      ],
+      "recommendation": "Recommended",
+      "email": "karthik.reddy@email.com"
+    },
+    {
+      "candidate_id": "R007",
+      "candidate_name": "Meera Iyer",
+      "ats_score": 68,
+      "fit_summary": "Meera possesses strong skills in Python, deep learning frameworks, and experience in NLP and Computer Vision, which are relevant to an SDE role. However, her experience is primarily in Data Science, and the resume lacks explicit mentions of core software development skills like data structures, algorithms, or typical software engineering tools and practices.",
+      "key_strengths": [
+        "Python Proficiency",
+        "Deep Learning Expertise (PyTorch, TensorFlow)",
+        "NLP and Computer Vision Experience"
+      ],
+      "missing_skills": [
+        "Data Structures and Algorithms",
+        "Software Development Lifecycle",
+        "System Design"
+      ],
+      "recommendation": "Maybe",
+      "email": "meera.iyer@email.com"
+    },
+    {
+      "candidate_id": "R001",
+      "candidate_name": "Ananya Sharma",
+      "ats_score": 65,
+      "fit_summary": "Ananya possesses a solid foundation in data analysis tools and techniques, demonstrated through her internship and projects. However, her experience is primarily focused on data analysis rather than core software development, lacking direct experience with software engineering principles and development lifecycles.",
+      "key_strengths": [
+        "Proficiency in Python and SQL",
+        "Experience with data visualization tools (Power BI, Tableau)",
+        "Strong analytical and problem-solving skills demonstrated in projects"
+      ],
+      "missing_skills": [
+        "Software Development Lifecycle (SDLC)",
+        "Object-Oriented Programming (OOP) principles",
+        "Version Control (e.g., Git)",
+        "Software testing methodologies",
+        "Experience with software development frameworks/languages relevant to SDE roles (e.g., Java, C++, JavaScript, Go)"
+      ],
+      "recommendation": "Partial fit",
+      "email": "ananya.sharma@email.com"
+    },
+    {
+      "candidate_id": "R005",
+      "candidate_name": "Sneha Kulkarni",
+      "ats_score": 55,
+      "fit_summary": "Sneha's background is heavily focused on Business Intelligence and Data Analysis, with strong skills in SQL, Python, and data visualization tools like Tableau. While she demonstrates analytical and problem-solving abilities through her projects, her experience lacks direct software development (SDE) responsibilities and exposure to core programming languages/frameworks typically required for an SDE role.",
+      "key_strengths": [
+        "Strong analytical skills with Python and SQL",
+        "Experience in data analysis, A/B testing, and BI reporting",
+        "Data visualization expertise (Tableau, Power BI)"
+      ],
+      "missing_skills": [
+        "Software development lifecycle (SDLC)",
+        "Data structures and algorithms",
+        "Specific programming languages for development (e.g., Java, C++, JavaScript)",
+        "Software testing methodologies"
+      ],
+      "recommendation": "Maybe",
+      "email": "sneha.kulkarni@email.com"
+    }
+  ],
+  "top_3_shortlisted": [
+    {
+      "candidate_id": "R003",
+      "candidate_name": "Priya Nair",
+      "ats_score": 88,
+      "fit_summary": "Priya presents as a strong candidate for an SDE role with a focus on AI/ML due to her specialized education from IIT Hyderabad and practical experience in LLM fine-tuning and RAG pipelines. Her projects demonstrate a clear ability to apply AI concepts to real-world problems, making her a promising contender.",
+      "key_strengths": [
+        "Strong AI/ML specialization with IIT Hyderabad background",
+        "Hands-on experience with LLMs, RAG, and LangChain",
+        "Demonstrated project work in AI-powered tools"
+      ],
+      "missing_skills": [
+        "Core SDE skills (e.g., specific programming languages beyond Python, data structures, algorithms, software design patterns)",
+        "Experience with large-scale software development lifecycle"
+      ],
+      "recommendation": "Strongly Recommended",
+      "email": "priya.nair@email.com"
+    },
+    {
+      "candidate_id": "R006",
+      "candidate_name": "Arjun Verma",
+      "ats_score": 88,
+      "fit_summary": "Arjun Verma is a strong candidate for an SDE role with 3.5 years of experience in full-stack development. His resume highlights relevant skills in Java, Spring Boot, React, microservices, and DevOps tools like Docker and Kubernetes, aligning well with typical SDE responsibilities.",
+      "key_strengths": [
+        "Full-stack development experience",
+        "Proficiency in Java, Spring Boot, and React",
+        "Experience with microservices architecture and CI/CD"
+      ],
+      "missing_skills": [],
+      "recommendation": "Strongly Recommended",
+      "email": "arjun.verma@email.com"
+    },
+    {
+      "candidate_id": "R008",
+      "candidate_name": "Vikram Singh",
+      "ats_score": 88,
+      "fit_summary": "Vikram has substantial backend development experience, particularly with Python and Django, aligning well with typical SDE roles. His project experience demonstrates practical application of skills like API integration and scalable system design.",
+      "key_strengths": [
+        "Python/Django Expertise",
+        "API Development & Integration",
+        "Database Management (PostgreSQL, Redis)"
+      ],
+      "missing_skills": [
+        "Frontend Technologies (e.g., JavaScript, React/Angular/Vue)",
+        "Cloud Platforms (e.g., AWS, Azure, GCP)"
+      ],
+      "recommendation": "Strongly Recommended",
+      "email": "vikram.singh@email.com"
+    }
+  ]
+}

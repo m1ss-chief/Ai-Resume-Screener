@@ -1,0 +1,258 @@
+[
+  {
+    "id": "R001",
+    "name": "Ananya Sharma",
+    "email": "ananya.sharma@email.com",
+    "phone": "+91-9876543210",
+    "location": "Hyderabad, India",
+    "education": {
+      "degree": "B.Tech in Computer Science",
+      "institution": "JNTU Hyderabad",
+      "year": 2022,
+      "cgpa": 8.7
+    },
+    "experience": [
+      {
+        "title": "Data Analyst Intern",
+        "company": "TechCorp Solutions",
+        "duration": "6 months",
+        "description": "Built dashboards in Power BI and Tableau, performed SQL-based data extraction, cleaned datasets using Pandas, and presented weekly insights to stakeholders."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sales Forecasting Dashboard",
+        "description": "Built an end-to-end dashboard using Python and Power BI to forecast monthly sales using historical data. Reduced manual reporting time by 40%."
+      },
+      {
+        "name": "Customer Churn Analysis",
+        "description": "Analyzed telecom customer data using Python, identified churn patterns, and visualized KPIs using Matplotlib and Seaborn."
+      }
+    ],
+    "skills": ["Python", "SQL", "Power BI", "Tableau", "Excel", "Pandas", "NumPy", "Data Visualization", "Statistics"]
+  },
+  {
+    "id": "R002",
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@email.com",
+    "phone": "+91-9812345678",
+    "location": "Pune, India",
+    "education": {
+      "degree": "B.E. in Information Technology",
+      "institution": "Pune University",
+      "year": 2021,
+      "cgpa": 7.9
+    },
+    "experience": [
+      {
+        "title": "Software Developer",
+        "company": "Infosys",
+        "duration": "2 years",
+        "description": "Developed RESTful APIs using Node.js and Express, worked on microservices architecture, integrated third-party APIs, and collaborated in Agile sprints."
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Commerce Backend System",
+        "description": "Designed and implemented a scalable backend using Node.js, MongoDB, and Redis. Handled 10k+ concurrent users with optimized caching strategies."
+      },
+      {
+        "name": "Task Management App",
+        "description": "Full-stack app using React and Node.js with JWT authentication, role-based access, and real-time notifications using WebSockets."
+      }
+    ],
+    "skills": ["JavaScript", "Node.js", "React", "MongoDB", "SQL", "REST APIs", "Docker", "Git", "Agile", "Redis"]
+  },
+  {
+    "id": "R003",
+    "name": "Priya Nair",
+    "email": "priya.nair@email.com",
+    "phone": "+91-9900112233",
+    "location": "Bengaluru, India",
+    "education": {
+      "degree": "M.Tech in Artificial Intelligence",
+      "institution": "IIT Hyderabad",
+      "year": 2023,
+      "cgpa": 9.1
+    },
+    "experience": [
+      {
+        "title": "AI Research Intern",
+        "company": "Microsoft Research India",
+        "duration": "8 months",
+        "description": "Worked on LLM fine-tuning using LoRA, built RAG pipelines using LangChain, and evaluated model performance on NLP benchmarks."
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI Resume Screener",
+        "description": "Built an LLM-powered resume screening tool using GPT-4 API and LangChain that scores and ranks candidates based on job descriptions."
+      },
+      {
+        "name": "Conversational Chatbot",
+        "description": "Developed a domain-specific chatbot using RAG architecture with FAISS vector store and OpenAI embeddings for a legal firm."
+      }
+    ],
+    "skills": ["Python", "LangChain", "OpenAI API", "LLMs", "RAG", "NLP", "Hugging Face", "FAISS", "Prompt Engineering", "Fine-tuning"]
+  },
+  {
+    "id": "R004",
+    "name": "Karthik Reddy",
+    "email": "karthik.reddy@email.com",
+    "phone": "+91-9988776655",
+    "location": "Chennai, India",
+    "education": {
+      "degree": "B.Tech in Electronics and Communication",
+      "institution": "Anna University",
+      "year": 2020,
+      "cgpa": 7.5
+    },
+    "experience": [
+      {
+        "title": "Machine Learning Engineer",
+        "company": "Zoho Corporation",
+        "duration": "3 years",
+        "description": "Built and deployed ML models for fraud detection and recommendation systems, worked with Spark for big data processing, and maintained MLflow pipelines."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fraud Detection System",
+        "description": "Trained XGBoost and Random Forest models on financial transaction data achieving 96% accuracy. Deployed as a REST API using FastAPI."
+      },
+      {
+        "name": "Product Recommendation Engine",
+        "description": "Collaborative filtering model using Surprise library integrated with an e-commerce platform to improve CTR by 18%."
+      }
+    ],
+    "skills": ["Python", "Scikit-learn", "XGBoost", "TensorFlow", "MLflow", "Apache Spark", "FastAPI", "SQL", "Feature Engineering", "Model Deployment"]
+  },
+  {
+    "id": "R005",
+    "name": "Sneha Kulkarni",
+    "email": "sneha.kulkarni@email.com",
+    "phone": "+91-9123456780",
+    "location": "Mumbai, India",
+    "education": {
+      "degree": "B.Sc in Statistics",
+      "institution": "Mumbai University",
+      "year": 2021,
+      "cgpa": 8.3
+    },
+    "experience": [
+      {
+        "title": "Business Intelligence Analyst",
+        "company": "Accenture",
+        "duration": "2.5 years",
+        "description": "Created automated BI reports using Tableau and SQL Server, performed cohort analysis, A/B testing, and built KPI tracking dashboards for C-level stakeholders."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Marketing Campaign Analysis",
+        "description": "Used Python and SQL to analyze marketing funnel data, identified drop-off stages, and suggested optimizations that improved conversion by 22%."
+      },
+      {
+        "name": "HR Attrition Prediction",
+        "description": "Built a logistic regression model to predict employee attrition with 88% accuracy and visualized insights in Tableau for HR leadership."
+      }
+    ],
+    "skills": ["SQL", "Tableau", "Excel", "Python", "Statistics", "A/B Testing", "Power BI", "R", "Data Storytelling", "Business Intelligence"]
+  },
+  {
+    "id": "R006",
+    "name": "Arjun Verma",
+    "email": "arjun.verma@email.com",
+    "phone": "+91-9654321987",
+    "location": "Delhi, India",
+    "education": {
+      "degree": "B.Tech in Computer Science",
+      "institution": "Delhi Technological University",
+      "year": 2020,
+      "cgpa": 8.1
+    },
+    "experience": [
+      {
+        "title": "Full Stack Developer",
+        "company": "Wipro",
+        "duration": "3.5 years",
+        "description": "Led development of microservices using Java Spring Boot and React frontend, implemented CI/CD pipelines using Jenkins and GitHub Actions, and mentored junior developers."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hospital Management System",
+        "description": "Full-stack application using Spring Boot, React, and PostgreSQL with role-based access, appointment scheduling, and billing modules."
+      },
+      {
+        "name": "CI/CD Pipeline Automation",
+        "description": "Set up end-to-end DevOps pipeline using Docker, Kubernetes, Jenkins, and AWS EC2, reducing deployment time by 60%."
+      }
+    ],
+    "skills": ["Java", "Spring Boot", "React", "PostgreSQL", "Docker", "Kubernetes", "AWS", "CI/CD", "Jenkins", "Microservices"]
+  },
+  {
+    "id": "R007",
+    "name": "Meera Iyer",
+    "email": "meera.iyer@email.com",
+    "phone": "+91-9345678901",
+    "location": "Hyderabad, India",
+    "education": {
+      "degree": "M.Sc in Data Science",
+      "institution": "University of Hyderabad",
+      "year": 2022,
+      "cgpa": 8.9
+    },
+    "experience": [
+      {
+        "title": "Data Scientist",
+        "company": "Deloitte India",
+        "duration": "1.5 years",
+        "description": "Built NLP models for sentiment analysis and text classification, developed computer vision pipelines using OpenCV and PyTorch, and communicated findings to business teams."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sentiment Analysis for Product Reviews",
+        "description": "Fine-tuned BERT model on e-commerce review data achieving F1 score of 0.91. Deployed on AWS SageMaker with a REST endpoint."
+      },
+      {
+        "name": "Object Detection for Retail",
+        "description": "Built a real-time object detection system using YOLOv8 to monitor shelf inventory for a retail client, reducing stock-out incidents by 30%."
+      }
+    ],
+    "skills": ["Python", "PyTorch", "TensorFlow", "NLP", "BERT", "Computer Vision", "OpenCV", "AWS SageMaker", "Scikit-learn", "Deep Learning"]
+  },
+  {
+    "id": "R008",
+    "name": "Vikram Singh",
+    "email": "vikram.singh@email.com",
+    "phone": "+91-9786543210",
+    "location": "Noida, India",
+    "education": {
+      "degree": "B.Tech in Computer Science",
+      "institution": "Amity University",
+      "year": 2019,
+      "cgpa": 7.2
+    },
+    "experience": [
+      {
+        "title": "Backend Developer",
+        "company": "HCL Technologies",
+        "duration": "4 years",
+        "description": "Developed Python Django REST APIs, integrated payment gateways, managed PostgreSQL and Redis databases, and optimized query performance for high-traffic systems."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Payment Gateway Integration",
+        "description": "Integrated Razorpay and Stripe APIs into a Django e-commerce platform handling 50k+ daily transactions with webhook-based reconciliation."
+      },
+      {
+        "name": "Real-time Chat Application",
+        "description": "Built a scalable chat system using Django Channels, WebSockets, and Redis pub/sub supporting 5000+ concurrent users."
+      }
+    ],
+    "skills": ["Python", "Django", "REST APIs", "PostgreSQL", "Redis", "Celery", "Docker", "Linux", "Git", "System Design"]
+  }
+]
